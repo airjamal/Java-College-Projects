@@ -1,0 +1,85 @@
+
+
+
+
+
+
+#playButton{
+	-fx-background-color: transparent;
+    -fx-background-image: url("icons/play.png");
+ 	-fx-background-repeat: no-repeat;
+ 	-fx-background-size: 28px;
+ 	-fx-border-color: transparent;
+    -fx-border-width: 0;
+    -fx-background-position: center center;
+}
+
+#pauseButton{
+	-fx-background-color: transparent;
+    -fx-background-image: url("icons/pause.png");
+ 	-fx-background-repeat: no-repeat;
+ 	-fx-background-size: 28px;
+ 	-fx-border-color: transparent;
+    -fx-border-width: 0;
+    -fx-background-position: center center;
+}
+
+#resetButton{
+	-fx-background-color: transparent;
+    -fx-background-image: url("icons/replay.png");
+ 	-fx-background-repeat: no-repeat;
+ 	-fx-background-size: 28px;
+ 	-fx-border-color: transparent;
+    -fx-border-width: 0;
+    -fx-background-position: center center;
+}
+
+#previousButton{
+	-fx-background-color: transparent;
+    -fx-background-image: url("icons/previous.png");
+ 	-fx-background-repeat: no-repeat;
+ 	-fx-background-size: 28px;
+ 	-fx-border-color: transparent;
+    -fx-border-width: 0;
+    -fx-background-position: center center;
+}
+
+#nextButton{
+	-fx-background-color: transparent;
+    -fx-background-image: url("icons/next.png");
+ 	-fx-background-repeat: no-repeat;
+ 	-fx-background-size: 28px;
+ 	-fx-border-color: transparent;
+    -fx-border-width: 0;
+    -fx-background-position: center center;
+}
+
+#shuffleButton{
+	-fx-background-color: transparent;
+	-fx-background-image: url("icons/shuffle.png");
+ 	-fx-background-repeat: no-repeat;
+ 	-fx-background-size: 28px;
+ 	-fx-border-color: transparent;
+    -fx-border-width: 0;
+    -fx-background-position: center center;
+}
+
+#exitButton{
+	-fx-background-color: transparent;
+	-fx-background-image: url("icons/exit.png");
+ 	-fx-background-repeat: no-repeat;
+ 	-fx-background-size: 28px;
+ 	-fx-border-color: transparent;
+    -fx-border-width: 0;
+    -fx-background-position: center center;
+}
+
+#menuButton{
+	-fx-background-color: transparent;
+	-fx-background-image: url("icons/menu.png");
+ 	-fx-background-repeat: no-repeat;
+ 	-fx-background-size: 28px;
+ 	-fx-border-color: transparent;
+    -fx-border-width: 0;
+    -fx-background-position: center center;
+}
